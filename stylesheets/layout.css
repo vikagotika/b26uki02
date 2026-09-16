@@ -44,5 +44,13 @@ margin: 28px auto;
 font-size: 22px;
 line-height: 24px;
 }
-
+img,
+hr{
+  width: 1024px;
+  margin: 0 auto;
+  display: block;
+}
+hr{
+  border-bottom: none;
+}
 
