@@ -1,0 +1,20 @@
+/* (..- выйти из папки, /- переход на папку ) */
+@font-face {
+  font-family: "PT Root UI";
+  src: url("../fonts/pt-root-ui_bold.woff") format("woff");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "PT Root UI";
+  src: url("../fonts/pt-root-ui_medium.woff") format("woff");
+  font-weight: 500;
+}@font-face {
+  font-family: "PT Root UI";
+  src: url("../fonts/pt-root-ui_regular.woff") format("woff");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "PT Root UI";
+  src: url("../fonts/pt-root-ui_light.woff") format("woff");
+  font-weight: 300;
+}
